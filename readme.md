@@ -155,11 +155,6 @@ Display process-related information while running.
 - Build the package `fab dist`
 - Cleanup compiled files `fab clean`
 
-## Team
-
-- Mario Sinani ([@mariosinani](https://github.com/mariosinani))
-- Klaus Sinani ([@klaussinani](https://github.com/klaussinani))
-
 ## License
 
 [MIT](https://github.com/klaussinani/moviebox/blob/master/license.md)
